@@ -46,8 +46,4 @@ Após a instalação de cada uma das dependências execute o jupyter-notebook e 
 o código.  
 
 Para executar o código basta selecionar a célula desejada e pressionar **shift+enter**.
-Execute cada uma das células (espere que elas sejam totalmente executadas antes de executar a próxima).  
-
-No fim do código há a apresentação dos gráficos contendo os resultados dos tempos de execução médios
-de cada um dos algorítmos em seus respectivos casos de teste.  
-
+Execute cada uma das células (espere que elas sejam totalmente executadas antes de executar a próxima).    
